@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Drivers/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JExcelAPI/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/DatePicker/DatePicker-V0.99-2006.09.01.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/jasperreports-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JFreeChart/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JFreeChart/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/JasperReport/poi-3.7-20101029.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
